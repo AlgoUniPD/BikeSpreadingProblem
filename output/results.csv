@@ -1,0 +1,2 @@
+Algorithm,Model,Seed,Sigma,Threshold(t-model),time [ms]
+greedy,s-model,"[177, 204, 249, 307]",96.358,1,0.0

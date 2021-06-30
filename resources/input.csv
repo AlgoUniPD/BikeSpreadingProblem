@@ -1,0 +1,2 @@
+graph_name,algorithm,model,seed_size,tau,n_bikes,t_model_threshold
+G_500_0.0_E.csv,greedy,s,4,2,100,1
